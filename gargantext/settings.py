@@ -43,6 +43,7 @@ CELERY_IMPORTS = (
                     "graph.graph",
                     "moissonneurs.pubmed",
                     "moissonneurs.istex",
+                    "gargantext.util.ngramlists_tools",
                     )
 
 
