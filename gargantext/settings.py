@@ -161,6 +161,9 @@ API_TOKENS ={
                 "APIKEY":'b8514451-82d1-408e-a855-56d342a0b5f8',
                 "APISECRET":'6680b13e-2b5a-4fba-8c0e-408884d5b904',
             },
+    "MULTIVAC" :{
+                "APIKEY": "3a8ca010-1dff-11e7-97ef-a1a6aa4c2352"
+        }
     }
 
 # Internationalization
